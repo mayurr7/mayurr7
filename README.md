@@ -1,4 +1,4 @@
-![Header](./[your-header-image-name.png](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png))
+[![MasterHead]((https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png))
 <h1 align="center">Hi 👋, I'm Mayur Tekale</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
