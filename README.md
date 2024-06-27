@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Tekale</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
- <img align="right" width="4000" src="https://iconscout.com/lottie-animation/programmer-working-on-pc-3917154" alt="coding">
+ <img align="right" width="400" src="githubimg.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurr7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurr7" /> </p>
 
