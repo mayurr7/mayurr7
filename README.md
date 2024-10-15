@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayur_b_tekale" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_b_tekale?logo=twitter&style=for-the-badge" alt="mayur_b_tekale" /></a> </p>
 
-- 🌱 I’m currently working on **ReactJs**
+- 🌱 I’m currently working on **MERN Stack**
 
 - 💬 Ask me about **MERN, Java and DSA**
 
